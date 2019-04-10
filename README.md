@@ -21,11 +21,7 @@ E’ un unico file auto installante che, se necessario, aggiornerà la vostra co
 
 [skyflash.it - La traduzione in Italiano di Morrowind, Tribunal e Bloodmoon](https://www.skyflash.it/traduzione-italiano-morrowind-tribunal-bloodmoon/3581/)
 
----
-
 ## MORROWIND ITP - STAFF
-
----
 
 ### Responsabile del gruppo:
 
@@ -40,8 +36,6 @@ E’ un unico file auto installante che, se necessario, aggiornerà la vostra co
 ### Responsabile tecnico:
 
 - Maurizio 'Dester' Focareta
-
----
 
 ### Traduttori ITP - Morrowind:
 
@@ -62,8 +56,6 @@ E’ un unico file auto installante che, se necessario, aggiornerà la vostra co
 
 > Un sentito grazie al nostro 'padre spirituale' Lello 'wolverine' Sarti, a Davide ‘Magi System’ Martelli per il supporto web e a Gianluca ‘Eldar’ Barca per l’aiuto nella realizzazione della statua
 
----
-
 ### Traduttori ITP - Tribunal:
 
 - Daniele 'Falcocadarn' Falcone
@@ -81,5 +73,3 @@ E’ un unico file auto installante che, se necessario, aggiornerà la vostra co
 Luca “Fusion” Piombino per il largo aiuto durante lo sviluppo del programma di conversione dei salvataggi. 
 Jim Adam per le informazioni tratte dal suo sito sul formato dei files di Morrowind.
 Tanilo e Pec dalle terre del Canada per la compagnia “telematica” e per un buon numero di aiuti tecnici
-
----
