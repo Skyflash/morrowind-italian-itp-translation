@@ -1,6 +1,6 @@
 # La traduzione in Italiano di Morrowind
 
-## La traduzione in Italiano di Morrowind, Tribunal e Bloodmoon - A cura dell'ITP (Italian Trnslation Project)
+## La traduzione in Italiano di Morrowind, Tribunal e Bloodmoon - A cura dell'ITP (Italian Translation Project)
 
 Questa è la versione definitiva della traduzione, che non necessita di preventivi aggiornamenti del gioco. Si basa sull’edizione **Game of the Year** di Morrowind e contiene sia la traduzione del gioco base che della sua espansione “vampiresca”, BloodMoon. 
 
