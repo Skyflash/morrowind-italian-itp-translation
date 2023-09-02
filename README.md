@@ -1,21 +1,25 @@
-# LA TRADUZIONE DI MORROWIND: UN PO’ DI STORIA
-Atteso dai fan di mezzo mondo, il suo lancio Italiano destò molte polemiche. Il gioco infatti, inspiegabilmente, non venne tradotto in nessuna sua parte. Ricordo ancora le parole di un P.R. Ubisoft, il quale dichiarò, più o meno, che la traduzione non era stata fatta per motivi di tempo. In pratica, ci disse che non lo avevano tradotto perchè altrimenti ci sarebbe stato un pesante ritardo nella distribuzione, e che quindi avevano preso questa decisione per fare un favore a noi giocatori. Che avesse forse dinanzi un roseo futuro da umorista? O forse da politico? Fatto sta che Morrowind venne distribuito in rigorosa lingua Inglese. Il CRPG che avrebbe rivoluzionato il genere, il gioco con la più grande mole di testi mai realizzato, sarebbe stato di difficile comprensione per molti giocatori Italiani.
+# La Traduzione di Morrowind: un po' di Storia
+
+Atteso dai fan di mezzo mondo, il suo lancio Italiano destò molte polemiche. Il gioco infatti, inspiegabilmente, non venne tradotto in nessuna sua parte: il CRPG che avrebbe rivoluzionato il genere, il gioco con la più grande mole di testi mai realizzato, _sarebbe stato di difficile comprensione per molti giocatori Italiani_.
 
 Qualche mese prima della sua uscita nel nostro mercato, io ed altri appassionati ci eravamo già procurati la versione USA del gioco (per quanto mi riguarda, fu la Collector’s Edition), scoprendo così le fantastiche potenzialità dell’editor integrato. Tramite il TES Construction Set era possibile realizzare praticamente di tutto; si potevano creare nuovi oggetti, nuove quest, nuovi NPC. Si poteva addirittura realizzare un plugin che cambiasse ogni singola parola del gioco. Come? Era possibile cambiare i testi a video? Allora era anche possibile tradurre Morrowind!
 
-# SI COMINCIA A TRADURRE!
+# Si Comincia a Tradurre!
+
 Quasi per gioco, iniziai a tradurre il tutorial e le prime fasi di gioco. In quegli anni uno dei miei contatti era Lello Sarti, responsabile della testata online RPGPlayer.it, poi assorbita da Multiplayer. Lello era a sua volta in contatti con alcuni membri dell’ITP, a cui riferì che io avevo iniziato a tradurre il gioco. Il prossimo passo fu ovvio: stava per prendere il via la traduzione in Italiano più lunga e complessa mai realizzata a livello amatoriale!
 
 Proprio su questo stesso dominio istituimmo una mailing list con cui tenerci in contatto, e creai anche un piccolo forum (utilizzando lo storico Snitz! forum, un ormai obsoleto forum in .ASP). Nel frattempo il gioco era già uscito in Italia e, come c’era da immaginarsi, venne accolto con molta timidezza, proprio a causa della sua gigantesca mole di testo in Inglese. Non ci volle molto perchè la voce secondo cui l’ITP, già noto per il meraviglioso lavoro svolto con Planescape: Torment, si era messo al lavoro su Morrowind si diffondesse. Nel giro di alcuni mesi si parlava di noi su Usenet, sui forum, e persino su qualche rivista.
 
-# I PRIMI PROBLEMI…
+# I Primi Problemi…
+
 L’opera di traduzione stava procedendo bene, quando ci rendemmo conto di una cosa: la particolare struttura del Journal – il Diario – di Morrowind era basata sul linguaggio HTML, ed alcuni termini erano veri e propri hyperlinks che riconducevano ad altre sezioni, le quali erano a loro volta collegate con altre ancora. Non aver verificato quali fossero questi particolari termini (indicati col prefisso @, es: @elves) significava una sola cosa: era tutto da rifare!
 
 Per nostra grande fortuna, uno dei componenti il team era un buon programmatore e riuscì a realizzare un software il cui compito era quello di analizzare il Journal ed estrarre tutti i termini ‘speciali’. Questo comportò ovviamente un ritardo sui tempi, ma ci permise di non buttare tutto quanto fino a quel momento realizzato, limitandoci a ricontrollare solo le parti indicate dal nostro programma specifico.
 
 I mesi passavano ed il lavoro proseguiva. Le richieste da parte degli utenti fioccavano da più parti, tutti impazienti di poter finalmente giocare a Morrowind senza essere costretti a tenere un vocabolario sulle gambe. Ci fu anche qualche problema con Ubisoft, il publisher, di cui non vi parlerò neppure sotto tortura perchè sono comunque argomenti riservati 🙂
 
-# LA QUEST AGGIUNTIVA
+# La Quest Aggiuntiva
+
 Ci mancava ancora qualcosa, però. In fin dei conti si stava lavorando sul TES, e si stava realizzando un plugin, no? E allora, perchè non distribuire nello stesso pacchetto anche una quest aggiuntiva, la quale avrebbe ricompensato il giocatore con un libro il cui contenuto si riferiva a “Coloro i quali fecero l’impresa”? In quel libro avremmo riportato una breve ‘Bio’ di ciascuno di noi, con uno stile ovviamente conforme all’ambientazione di gioco. Dopo tanto lavoro, un minimo di auto referenzialità mi pare dovuta, no? 🙂
 
 Purtroppo, a causa di mancanza di tempo, io fui costretto a sospendere la mia collaborazione con l’ITP anzitempo, ma questo non comportò alcun problema per i ragazzi, che non mi stancherò mai di ringraziare per avermi comunque incluso sia fra i ringraziamenti nelle note di rilascio che nella quest aggiuntiva, malgrado la mia defezione anticipata.
