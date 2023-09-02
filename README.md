@@ -77,7 +77,7 @@ E’ un unico file auto installante che, se necessario, aggiornerà la vostra co
 - Fabio 'Gimli81' Poli
 - Leonardo 'Spaziotempo6' Picchi
 - Paolo "Tasslehoff" Regonesi
-- Cristian 'Skyflash' Castellari
+- [Cristian 'Skyflash' Castellari](https://cristiancastellari.it)
 - Francesco 'Hammer' Penta
 
 > Un sentito grazie al nostro 'padre spirituale' Lello 'wolverine' Sarti, a Davide ‘Magi System’ Martelli per il supporto web e a Gianluca ‘Eldar’ Barca per l’aiuto nella realizzazione della statua
