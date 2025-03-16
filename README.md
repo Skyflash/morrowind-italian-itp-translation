@@ -1,3 +1,7 @@
+> Il 2002, ludicamente parlando, verrà ricordato per l’uscita dell’attesissimo terzo capitolo della saga The Elder Scrolls.
+
+**The Elder Scrolls III: Morrowind** ha rivoluzionato i canoni di libertà individuale del giocatore nel mondo virtuale del gioco stesso. Mai, fino a Morrowind, un CRPG era stato in grado di offrire una tale libertà di esplorazione ed una tale quantità di quests secondarie e PNG.
+
 # La Traduzione di Morrowind: un po' di storia
 
 Atteso dai fan di mezzo mondo, il suo lancio Italiano destò molte polemiche. Il gioco infatti, inspiegabilmente, non venne tradotto in nessuna sua parte: il CRPG che avrebbe rivoluzionato il genere, il gioco con la più grande mole di testi mai realizzato, _sarebbe stato di difficile comprensione per molti giocatori Italiani_.
